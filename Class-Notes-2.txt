@@ -1,0 +1,51 @@
+03-Jun-2020
+-----------
+
+JIRA:
+-----
+
+-> It is an Atlasian company product
+
+-> It is used to manage our project work
+
+-> We can use this as a bug reporting tool also
+
+-> We no need to install jira 
+
+-> JIRA is a web application directly we can access from web
+
+-> Create Account in JIRA and Login into JIRA software
+
+
+URL to open SignUp Form for JIRA
+---------------------------------
+https://www.atlassian.com/try/cloud/signup?bundle=jira-software&edition=free
+
+
+-> Create a Project in JIRA
+
+	- Classic Project
+
+	- Next Gen Project
+
+-> After Project creation completed, we can create stories in backlog.
+
+-> Backlog means pending works
+
+-> For every task we will create story in backlog bucket
+
+-> For Every Story one JIRA ID will be generated
+
+-> When we create Story we should write description(who, what & why)
+
+-> For every story we need to assign story points
+
+		1 point  ---> 1 day story
+		2 points ---> 2 days story
+		3 points ---> 3 days story
+
+Note: If we give more story points team memebers will question why those many points are required... We should be able to justify	
+
+Note: Story will maintain Reporter name (who created that)
+	
+

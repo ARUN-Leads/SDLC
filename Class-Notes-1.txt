@@ -1,0 +1,163 @@
+Agile Methodlogy
+----------------
+AGILE methodology is a practise that promotes continuous iteration of development and testing throughout the software development lifecyle.
+
+
+Advantages
+----------
+-> It is best suitable for complex and large project
+
+-> Clients no need to wait long time to see the project
+
+-> Requirements are not fixed
+
+Dis-Advantages
+---------------
+-> Cost of the project is not fixed
+
+
+
+
+Agile Terminology
+-----------------
+Product Owner
+Scrum Master
+Tech Lead
+Agile Team Members
+Backlog grooming
+Backlog
+Story & Story Points
+Sprint Planning
+Sprint
+Scrum
+Mid-Iteration Review
+Retro-spective
+
+Product Owner
+-------------
+-> Product Owner is the person who is responsible to deliver product to client
+
+-> Product Owner is one of our company employee
+
+-> Product Owner will monitor what team members are doing
+
+-> Product Owner will provide suggestions to team members during work
+
+-> Product Owner will update clients feedback about our work to team
+
+Scrum Master
+------------
+-> Scrum Master is one employee in our company
+
+-> Scrum Master will manage agile team members
+
+-> Scrum Master will conduct meetings with Team Members
+
+-> Scrum Master will Collect daily status updates from Team Members
+
+-> Scrum Master may not be a technical person
+
+-> Scrum Master will get requirements from Product Owner
+
+-> Scrum Master will address issues facing by team members
+
+Agile Team members
+-------------------
+-> Agile Teams are small in nature
+
+-> As per industry Agile team size should be 7 or less
+
+-> Agile Teams contains both developers & testers
+
+Tech Lead
+---------
+-> In Agile Team one team member will be Tech Lead
+
+-> Tech Lead is the person who is technically strong and knows entire project
+
+-> He is responsible to help team members whenever they face any technical issue
+
+-> He is responsible to KT(Knowlede Transfer) for new joinees in the project
+
+
+
+
+Backlog Grooming
+----------------
+-> It is one meeting which will be conducting by Scrum Master
+
+-> All Agile Team members, Scrum Master & Product Owner will be part of this meeting
+
+-> In this meeting we will identify our future work (tasks)
+
+-> We will create user stories for requirements in JIRA
+
+-> All team members will create stories in jira in backlog grooming meeting
+
+
+Stories for User Management Module
+------------------------------------
+1) Create Git Repository & Project folder structure
+
+2) Design Home Page with Header & footer
+
+3) Login functionality
+
+4) Registration functionality
+
+5) Forgot Password
+
+6) Dashboard
+
+7) Unit Testing
+
+8) Exception Handling
+
+9) Code Review
+
+10) Client side validations
+
+11) Jenkins Pipeline creation
+
+12) Deploy project to DEV
+
+13) Deploy project to QA
+
+14) Sonar Fixes
+
+15) Test login screen
+
+16) Test registration screen
+
+17) Test forgot pwd screen
+
+18) Test UI
+
+19) Logging should be implemented
+
+
+Note: All the above stores we need to create in JIRA
+
+-> Every team member will have access for JIRA
+
+-> All members will involve in stories creation in JIRA
+
+-> In Backlog Grooming meeting we will create JIRA stories in Backlog bucket.
+
+-> Backlog means pending works we need to complete in future
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
